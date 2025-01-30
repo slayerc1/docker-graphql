@@ -31,6 +31,6 @@ jobs:
 
     - name: Push Docker Image
       run: |
-        docker push slayerc1/docker-graphql:0.0.1 .
+        docker push slayerc1/docker-graphql:0.0.1
         
     
